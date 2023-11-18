@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the project or download the zip file.
 2. Open the code in suitable editor.
-3. Open terminal and run "npm init" to get the node modules
+3. Open terminal and run "npm install" to get the node modules
 4. Then use "npm start to run the project"
 
 Added components folder in src, where the components are available ,to make it easy to understand also added comments wherever required.
